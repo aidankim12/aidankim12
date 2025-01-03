@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi, I'm Aidan! 
+I'm a junior at UNC Chapel Hill majoring in Computer Science and minoring in Statistics. I'm passionate about full stack web development, with experience in Angular, Express, FastAPI, and more. Currently, I work as a software engineering intern at Trio Labs, Inc., and serve as a backend developer for CS+SG, a university organization helping nonprofits through software development. I'm always eager to explore new technologies and concepts. Outside of coding, I enjoy crocheting, working out, and playing ping pong!
 
 <!--
 **aidankim12/aidankim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
